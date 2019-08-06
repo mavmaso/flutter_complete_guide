@@ -4,7 +4,7 @@ void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   void answerQuestion() {
-    print('Resposta escolhida')
+    print('Resposta escolhida');
   }
 
   @override
